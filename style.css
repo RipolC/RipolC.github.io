@@ -107,3 +107,19 @@ footer a {
   color: #64ffda;
   text-decoration: none;
 }
+
+.volver-btn {
+  display: inline-block;
+  margin-top: 30px;
+  padding: 10px 20px;
+  background-color: #233554;
+  color: #64ffda;
+  border-radius: 6px;
+  text-decoration: none;
+  transition: background 0.2s;
+}
+
+.volver-btn:hover {
+  background-color: #64ffda;
+  color: #0a192f;
+}
